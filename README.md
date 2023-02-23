@@ -18,7 +18,7 @@
 
 本项目仅供个人学习研究使用，禁止用于商业及非法用途。
 
-基于 [GPLv3 license](https://opensource.org/license/gpl-3-0/) 许可进行开源。
+基于 [GPLv3 license](https://opensource.org/license/gpl-3-0/)  和 [996.ICU](https://github.com/996icu/996.ICU) 许可进行开源。
 
 ## 灵感来源
 
@@ -28,3 +28,4 @@
 - [qier222/YesPlayMusic](https://github.com/qier222/YesPlayMusic)
 - [Apple Music](https://music.apple.com)
 - [网易云音乐](https://music.163.com)
+- [Hydrogen Music](https://github.com/Kaidesuyo/Hydrogen-Music)
