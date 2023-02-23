@@ -1,5 +1,7 @@
 <div align="center">
 
+![合成 1](https://user-images.githubusercontent.com/56166464/220893992-96a65937-5483-4d19-90e0-b25c0d14e915.gif)
+
 # RhineMusic-WEB
 **仿 
 *明日方舟*
