@@ -28,4 +28,4 @@
 - [qier222/YesPlayMusic](https://github.com/qier222/YesPlayMusic)
 - [Apple Music](https://music.apple.com)
 - [网易云音乐](https://music.163.com)
-- [Hydrogen Music](https://github.com/Kaidesuyo/Hydrogen-Music)
+- [Kaidesuyo/Hydrogen Music](https://github.com/Kaidesuyo/Hydrogen-Music)
