@@ -20,7 +20,7 @@
 
 基于 [GPLv3 license](https://opensource.org/license/gpl-3-0/)  和 [996.ICU](https://github.com/996icu/996.ICU) 许可进行开源。
 
-## 灵感来源
+## 💡 灵感来源
 
 网易云音乐API：[Binaryify/NeteaseCloudMusicApi](https://github.com/Binaryify/NeteaseCloudMusicApi)<br />
 哔哩哔哩API：[SocialSisterYi/bilibili-API-collect](https://github.com/SocialSisterYi/bilibili-API-collect)
