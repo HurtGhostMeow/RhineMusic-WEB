@@ -1,0 +1,3 @@
+D:\RHINEMUSIC\WEB\RhineMusicWEB\obj\Debug\RhineMusicWEB.njsproj.AssemblyReference.cache
+D:\RHINEMUSIC\WEB\RhineMusicWEB\obj\Debug\RhineMusicWEB.njsproj.CoreCompileInputs.cache
+D:\RHINEMUSIC\WEB\RhineMusicWEB\bin\Microsoft.NodejsTools.WebRole.dll
