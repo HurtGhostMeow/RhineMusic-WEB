@@ -28,7 +28,6 @@
     <DebugSymbols>true</DebugSymbols>
   </PropertyGroup>
   <ItemGroup>
-    <Content Include="api\neteasemusic.js" />
     <Content Include="server.js" />
     <Content Include="package.json" />
     <Content Include="README.md" />
