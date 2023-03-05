@@ -3,8 +3,9 @@
     "",
     "\\src",
     "\\src\\api",
+    "\\src\\api\\lyric",
     "\\src\\api\\netease"
   ],
-  "SelectedNode": "\\README.md",
+  "SelectedNode": "\\src\\logo",
   "PreviewInSolutionExplorer": false
 }
