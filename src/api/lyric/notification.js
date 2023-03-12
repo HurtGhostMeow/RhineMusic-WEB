@@ -4,15 +4,15 @@ import { storeToRefs } from '../store/pinia'
 const { currentMusic } = storeToRefs(playerStore)
 
 function sendNotification() {
-    new Notification("${currentMusic}", {
+    new Notification('${currentMusic}', {
         body: '${getLyric}',
         icon: '../../logo/logo16x16.png'
     })
 }
-if (window.Notification.permission == "granted") { // ÅĞ¶ÏÊÇ·ñÓĞÈ¨ÏŞ
+if (window.Notification.permission == "granted") { // åˆ¤æ–­æ˜¯å¦æœ‰æƒé™
     sendNotification();
 } else if (window.Notification.permission != "denied") {
-    window.Notification.requestPermission(function (permission) { // Ã»ÓĞÈ¨ÏŞ·¢ÆğÇëÇó
+    window.Notification.requestPermission(function (permission) { // æ²¡æœ‰æƒé™å‘èµ·è¯·æ±‚
         sendNotification();
     });
 }
